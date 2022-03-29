@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 25px;
+}
+.copyrightfooter{
+    width: 100%;
+    bottom: 0px;
+    line-height: 50px;
+    color: black;
+    background-color: gray;
+    text-align: center;
+    font-weight: bold;
+    position: fixed;
+}
+p{
+    border-width: thin;
+}
+.note{
+    font-size: small;
+    color: black;
+}
+.nameofobject{
+    font-size: larger;
+    color: black;
+}
+canvas{
+    border: 20px double darkcyan;
+    border-radius: 35px;
+}
